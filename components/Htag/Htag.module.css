@@ -1,0 +1,29 @@
+.h1 {
+	margin: 0;
+
+	color: blueviolet;
+
+	font-size: 26px;
+	font-weight: 400;
+	line-height: 35px;
+}
+
+.h2 {
+	margin: 0;
+
+	color: rgb(226 43 171);
+
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+.h3 {
+	margin: 0;
+
+	color: rgb(44 204 30);
+
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 35px;
+}
