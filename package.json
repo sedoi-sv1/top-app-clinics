@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "@svgr/webpack": "^6.5.1",
-    "@types/classnames": "^2.3.1"
+    "@types/classnames": "^2.3.1",
+    "react-hook-form": "^7.41.0"
   }
 }
